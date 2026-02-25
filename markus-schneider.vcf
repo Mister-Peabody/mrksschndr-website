@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schneider;Markus;;;
+FN:Markus Schneider
+ORG:Hochschule Düsseldorf;Campus IT (CIT)
+TITLE:Security Operator
+ADR;TYPE=WORK:;;Münsterstraße 156;Düsseldorf;;40476;Deutschland
+LABEL;TYPE=WORK:Münsterstraße 156\nGeb. 01, Raum 01.1.111\n40476 Düsseldorf\nDeutschland
+TEL;TYPE=WORK,VOICE:+49 211 4351 3910
+EMAIL;TYPE=INTERNET,WORK:markus.schneider@hs-duesseldorf.de
+URL:https://hs-duesseldorf.de
+END:VCARD
